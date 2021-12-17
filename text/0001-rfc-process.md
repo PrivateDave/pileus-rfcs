@@ -19,3 +19,6 @@ The intention of giving birth to this standardized way of work is to allow ideas
 This system is a plain text model with the option to include images visible in view mode.
 
 # Rationale and alternatives
+
+# Prior art
+This process isn't a novelty. It's going to bring the best practices from other development processes, particularly Rust language development RFCs and Oxide Computer RFD interpretation. First is very established standard and the second helps break initial resistance to constitute ideas as written impressions.
