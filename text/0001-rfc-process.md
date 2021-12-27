@@ -13,7 +13,12 @@ First RFC is prepared as the self-defining structure of ideation, proposals and 
 The intention of giving birth to this standardized way of work is to allow ideas to reach day light early as conceptualized.
 
 # Guide-level explanation
-
+## Repository directory structure
+rfcs/
++- text\
+|  +- 0001-rfc-process.md
++- resources/
++- 0000-template.md
 
 # Drawbacks
 This system is a plain text model with the option to include images visible in view mode.
