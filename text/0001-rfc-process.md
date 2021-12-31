@@ -13,6 +13,24 @@ First RFC is prepared as the self-defining structure of ideation, proposals and 
 The intention of giving birth to this standardized way of work is to allow ideas to reach day light early as conceptualized.
 
 # Guide-level explanation
+## Desired outcomes
+Main conception of desired outcomes used by us reaching out from strategies shared by Totally Optimized Projects. 
+
+### Turn-key model
+#### Required outcome
+"What"
+
+#### Appropriate experience
+"How"
+
+Expertice tree weiged in The Seven Stages of Expertice in Software Engineering by Weyland Informatics
+
+### Transition to deliverables
+
+RFC document is itself deliverable. Any other deliverable should have own RFC proposal.
+
+### Outcomes path dependency 
+
 ## Repository directory structure
 rfcs/
 +- text\
