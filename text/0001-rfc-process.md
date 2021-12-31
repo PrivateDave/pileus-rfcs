@@ -32,11 +32,13 @@ RFC document is itself deliverable. Any other deliverable should have own RFC pr
 ### Outcomes path dependency 
 
 ## Repository directory structure
+```bash
 rfcs/
 +- text\
 |  +- 0001-rfc-process.md
 +- resources/
 +- 0000-template.md
+```
 
 # Drawbacks
 This system is a plain text model with the option to include images visible in view mode.
