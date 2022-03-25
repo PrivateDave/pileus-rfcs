@@ -1,0 +1,12 @@
+# See documentation: https://www.gitpod.io/docs/config-gitpod-file
+
+---
+# Commands to start on workspace startup
+tasks:
+  - init: |
+      # Install mob tool.
+      curl -sL install.mob.sh | sudo sh
+
+vscode:
+  extensions:
+    - mhutchie.git-graph
