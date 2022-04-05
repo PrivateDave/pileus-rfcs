@@ -5,7 +5,8 @@
 tasks:
   - init: |
       # Install mob tool.
-      curl -sL install.mob.sh | sudo sh
+      curl -sL install.mob.sh | sh -s - --user
+      alias mob=/home/gitpod/.local/bin/mob
 
 vscode:
   extensions:
